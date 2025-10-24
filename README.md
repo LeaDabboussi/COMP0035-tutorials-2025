@@ -134,6 +134,7 @@ _*Theme: Using Python to work with data*_
 5. [Using SQLModel to create SQLite database](docs/5_classes_orm/5-05-sqlmodel-create-db.md)
 6. [Using SQLModel to add data](docs/5_classes_orm/5-06-sqlmodel-add-data.md)
 7. [Summary](docs/5_classes_orm/5-07-summary.md)
+8. Optional [Using SQLAlchemy in place of SQLModel](docs/5_classes_orm/5-08-sqlalchemy.md)
 
 ### Week 6 Requirements; interface design
 

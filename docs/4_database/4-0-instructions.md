@@ -43,5 +43,5 @@ Activity instructions are in the docs/3_database folder, including:
 14. [Add data to tables with no FK](4-13-insert-no-fk.md)
 15. [Select data](4-14-select-query.md)
 16. [Add data to tables with an FK](4-15-insert-with-fk.md)
-17. [Normalisation and application code](4-17-normalisation-tradeoff.md)- A brief intro to the trade-off between
+17. _Optional_ [Normalisation and application code](4-17-normalisation-tradeoff.md)- A brief intro to the trade-off between
     database normalisation and query design
